@@ -1,0 +1,17 @@
+.square {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+.one {
+  background-color: rgb(2, 2, 2);
+}
+.two {
+  background-color: rgba(0, 0, 0, 0.766);
+}
+.three {
+  background-color: rgba(0, 0, 0, 0.551);
+}
+.four {
+  background-color: rgba(0, 0, 0, 0.4);
+}
